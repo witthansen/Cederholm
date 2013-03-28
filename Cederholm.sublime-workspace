@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"co",
+				"com1	CSS Simple Comments"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"bl",
+				"BLOCKQUOTE"
+			],
+			[
+				"background-c",
+				"background-color	zen:css_properties"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"link",
+				"link	link - author"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"ou",
+				"outline"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"spe",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"SPE",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ht",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"sp",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"com",
+				"Snippet: CSS Simple Comments"
+			],
+			[
+				"spec",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"char",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"sear",
+				"File: Search Files"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"ins",
+				"Gist: Insert Gist"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"op",
+				"Gist: Open Gist"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"crea",
+				"Gist: Create Public Gist"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"fi",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"fe",
+				"Fetch: Manage remote files"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"block",
+				"Snippet: <blockquote>"
+			],
+			[
+				"bloc",
+				"Snippet: <blockquote>"
+			],
+			[
+				"blo",
+				"Snippet: <blockquote>"
+			],
+			[
+				"html c",
+				"Snippet: HTML Comment"
+			],
+			[
+				"Snippet: c",
+				"Snippet: HTML Comment"
+			],
+			[
+				"sub",
+				"Snippet: CSS Sub Section Comments"
+			],
+			[
+				"Snippet: css",
+				"Snippet: CSS Section Comments"
+			],
+			[
+				"ma",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: preview in Sublime Text"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"mark",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/witt/Dropbox/CederholmCode/Cederholm/Cederholm.sublime-project",
+		"/C/Users/witt/Dropbox/Witt_Web_code/masonry/js/script.js",
+		"/C/Users/witt/Dropbox/Witt_Web_code/masonry/scss/_bits.scss",
+		"/C/Users/witt/Dropbox/Witt_Web_code/masonry/scss/_colors.scss",
+		"/C/Users/witt/Dropbox/Witt_Web_code/masonry/scss/style_social_design.scss",
+		"/C/Users/witt/Dropbox/Witt_Web_code/masonry/social_design_test.html",
+		"/C/Users/witt/Dropbox/Witt_Web_code/masonry/scss/style.scss",
+		"/C/Users/witt/Dropbox/netmag_tutorials/masonry/social_design_test_1.html",
+		"/C/Users/witt/Dropbox/netmag_tutorials/masonry/demo.html",
+		"/C/xampplite/htdocs/style_guide/net_mag_style_guide/_scss/base_copy_skolepedia.scss",
+		"/C/xampplite/htdocs/style_guide/net_mag_style_guide/styles_copy_skolepedia.html",
+		"/C/Users/witt/Dropbox/netmag_tutorials/masonry/css/style_social_design.css",
+		"/C/Users/witt/Dropbox/grafikk/Social_KHIO_Grid_pak/README.md",
+		"/C/Users/witt/Dropbox/grafikk/Social_KHIO_Grid_pak/gridpak.css",
+		"/C/Users/witt/Dropbox/netmag_tutorials/masonry/css/style.css",
+		"/C/xampplite/htdocs/style_guide/net_mag_style_guide/_css/base_copy_skolepedia.css",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/thesis_18_vettre/custom/custom_functions.php",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/thesis_18_vettre/custom/scss/test.scss",
+		"/C/Users/witt/Dropbox/askerpedia/kode/searchform_twenty_eleven.php",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/thesis_18_vettre/konsept_tekster.txt",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/thesis_18_vettre/custom/scss/custom.scss",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/README.rst",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/thesis_18_vettre/custom/custom.css",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/thesis_18_vettre/custom/custom/scss/custom.scss",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/thesis_18_vettre/custom/google.css",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/footer.php",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/header.php",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/index.php",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/parts/header.php",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/js/global.js",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/js/global-ck.js",
+		"/C/Users/witt/Dropbox/askerpedia/kode/layout.css",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/thesis_18_vettre/custom/layout.css",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/page-search-results.php",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/wp_theme/CSS-Tricks-10/search.php",
+		"/C/Users/witt/Desktop/pears_formatting_problems.css",
+		"/C/Users/witt/Desktop/pears_url_problems.html",
+		"/C/Users/witt/Dropbox/code_library/html/paragraph_long_ipsum_text.html",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/Users/witt/Dropbox/CederholmCode/css/test.css",
+		"/C/Users/witt/Dropbox/CederholmCode/Cederholm/css/test.css",
+		"/C/Users/witt/Dropbox/CederholmCode/scss/test.scss",
+		"/C/Users/witt/Dropbox/CederholmCode/Cederholm/test.html",
+		"/C/Users/witt/Dropbox/CederholmCode/test.scss",
+		"/C/Users/witt/Dropbox/CederholmCode/Cederholm/index.html",
+		"/C/Users/witt/Dropbox/CederholmCode/Cederholm/css/master.css",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/witt/Dropbox/xampplite/htdocs/wordpress-mu/wp-content/themes/thesis_18_vettre/custom/custom.css",
+		"/C/xampplite/htdocs/style_guide/readme.md",
+		"/C/xampplite/htdocs/net_mag_style_guide/readme.md",
+		"/C/xampplite/htdocs/style_guide/net_mag_style_guide/_css/base_copy.css",
+		"/C/xampplite/htdocs/style_guide/net_mag_style_guide/styles_copy.html",
+		"/C/Users/witt/Dropbox/code_library/idiomatic-css/README.md",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/css_sectioncomment.sublime-snippet",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/css_sub_sectioncomment.sublime-snippet",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/css_doxygen_comment.sublime-snippet",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/htmlcomment.sublime-snippet",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/User/simple_css_comments.sublime-snippet",
+		"/C/Users/witt/Dropbox/code_library/idiomaticCSS.css",
+		"/C/Users/witt/Dropbox/code_library/sublime_text/jakebresnehan-Sublime-Super-Snippets-a92b973/html/table.sublime-snippet",
+		"/C/Users/witt/Dropbox/code_library/sublime_text/jakebresnehan-Sublime-Super-Snippets-a92b973/css/comment.sublime-snippet",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/13_floating_nav_1/script.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/13_floating_nav_1/index.html",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/13_floating_nav_1/scroll.css",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/14_floating_nav_2/scroll.css",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/12_scroll_event/script.js",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/README.md",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/Content_inventory/inventory.html",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/Redesign_goals/02-Goals.markdown",
+		"/C/Users/witt/Dropbox/css_tricks_lodge/Content_inventory/01-Inventory.markdown",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/11_jquery_ui_effects/script_test.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/11_jquery_ui_effects/index_test.html",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/09_animated_navigation/script_test.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/06_other_easing_options/jquery.easing.1.3.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/10_animated_navigation_2/index_test.html",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/10_animated_navigation_2/navigation.css",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/09_animated_navigation/script.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/10_animated_navigation_2/script_test.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/07_bouncy_content_panes/script.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/06_other_easing_options/script_my.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/08_animation_queue/script.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/09_animated_navigation/navigation.css",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/09_animated_navigation/index_test.html",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/10_animated_navigation_2/script.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/06_other_easing_options/index_my.html",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/04_color_animation/script.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_03/04_color_animation/index.html",
+		"/C/Users/witt/Dropbox/Adaptive-Web-Design/c/main_testing.css",
+		"/C/Users/witt/Dropbox/Adaptive-Web-Design/index_testing.html",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_02/23_text_vs_html/script.js",
+		"/C/Users/witt/Dropbox/jquery_ninja/chapter_02/23_text_vs_html/index.html",
+		"/C/Users/witt/Dropbox/simple-static-swpt/simple-static-swpt/index.php",
+		"/C/Users/witt/Dropbox/CederholmCode/Cederholm/css/screen.css",
+		"/C/Users/witt/Dropbox/hardboiled_code_samples_orig/Hardboiled  example files/assets/css/reminder.css",
+		"/C/Users/witt/Dropbox/hardboiled_code_samples_orig/Hardboiled  example files/reminder.html",
+		"/C/Users/witt/Dropbox/Good_With_Javascript/Project Files/example_5_5.html",
+		"/C/Users/witt/Dropbox/css_tricks/RoundOutTabs2/index.html",
+		"/C/Users/witt/Dropbox/code_library/responsive_layout/elastic-fixed_threecol_test.html",
+		"/C/Users/witt/Dropbox/code_library/responsive_layout/elastic_floats_threecol1.html",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/README.md",
+		"/C/Users/witt/Dropbox/css_tricks/luis-almeida-tooltip-437fd9f/index_nojs.html",
+		"/C/xampplite/htdocs/responsive_patterns/responsive/index.php",
+		"/C/xampplite/htdocs/responsive_patterns/index.php",
+		"/C/Users/witt/Dropbox/code_library/responsive_patterns/readme.md",
+		"/C/Users/witt/Dropbox/css_tricks/MinParagraphWidth/style.css",
+		"/C/Users/witt/Dropbox/css_tricks/luis-almeida-tooltip-437fd9f/README.md",
+		"/C/Users/witt/Dropbox/css_tricks/MinParagraphWidth/index.html",
+		"/C/Users/witt/Dropbox/Good_With_Javascript/Project Files/example_3_12.html",
+		"/C/Users/witt/Dropbox/FlexibleWebExamples2/kap_9/examples/teaser.html",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/pears/loop-single.php",
+		"/C/xampplite/htdocs/wordpress-mu/wp-content/themes/pears/single.php",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/EncodingHelper/readme.md",
+		"/C/Users/witt/Desktop/320_Up/README.md",
+		"/C/Users/witt/Dropbox/Github_local_repos/bootstrap/docs/components.html",
+		"/C/Users/witt/Desktop/320_Up/index.html",
+		"/C/Users/witt/Dropbox/HTML5boilerplate/index.html",
+		"/C/Users/witt/Dropbox/html5_boilerplate/index.html",
+		"/C/Users/witt/Dropbox/Good_With_Javascript/Project Files/example_2_13.html",
+		"/C/Users/witt/Dropbox/Good_With_Javascript/Project Files/example_2_27.html",
+		"/C/Users/witt/AppData/Roaming/Sublime Text 2/Packages/LineEndings/readme.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"contain",
+			".container",
+			"Logotype",
+			"info",
+			".gs",
+			".entry-title",
+			"google_element",
+			".entry-title",
+			"lurer",
+			"#tagline",
+			"#logo a",
+			"#header",
+			"finner",
+			".format_text .kolonne_innhold_artikkel p",
+			"#content",
+			"em",
+			"px",
+			"serif",
+			"ctrl+alt",
+			"Søk",
+			"google_element",
+			"custom tem",
+			"thesis_search_form",
+			"#content",
+			"search",
+			"Photography",
+			"<article>",
+			"Fotografi",
+			"Photography",
+			"<a href=\"/ffallback.jpg\"></a>",
+			"div",
+			"line",
+			"The",
+			"the",
+			"The",
+			"the",
+			"The",
+			"the",
+			"The",
+			"name",
+			"the",
+			"/ffallback.jpg",
+			"ffallback",
+			"jpg",
+			"ctrl+alt",
+			"down",
+			"=\"\"></",
+			"happy",
+			"<section class=\"happy\">",
+			"Photography",
+			"></",
+			"font:",
+			"font",
+			"\"roycroft-1\",\"roycroft-2\",sans-serif;",
+			"font:",
+			"<a>",
+			"a",
+			"easeInOutBack",
+			"easeOutBounce",
+			"easeInOutBounce",
+			"easeOutQuad",
+			"margin",
+			"\n				",
+			"\n                ",
+			"				",
+			"stayer",
+			"someclass",
+			"february",
+			"february.jpg",
+			"january",
+			"/wp-content/themes/pears/images/temp-img.png",
+			"/wp-content/themes/pears/images/thumb.png",
+			"http://localhost.localdomain/wordpress-mu/codepatterns/files/2012/08/thumb.png",
+			"/wp-content/themes/pears/images/thumb.png",
+			"pears",
+			"ddddddddddddddddd",
+			"dddddddddddddd",
+			"				<p>dddddddddddddd</p>\n",
+			"aa",
+			"img",
+			"dt",
+			"double",
+			"@media",
+			"frame",
+			"matchM",
+			"ornament-2",
+			"leaves_bg-full.png",
+			"caption",
+			"form",
+			"faq",
+			"dt",
+			"aside",
+			"#mentoring",
+			".calendar",
+			"table",
+			"/*",
+			"transparent",
+			"#nav",
+			"red",
+			"relative",
+			"#logo",
+			"#nav",
+			"relative",
+			"nav",
+			"relative"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<article>",
+			"Fotografi"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"master",
+				"Cederholm/css/master.css"
+			],
+			[
+				"",
+				"/C/Users/witt/Desktop/pears_url_problems.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true
+}
